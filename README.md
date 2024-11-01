@@ -1,3 +1,5 @@
+![PyPI Downloads](https://static.pepy.tech/badge/showquota)
+
 # showquota
 `showquota` is a utility for checking linux user and projects(secondary groups) storage quota on the system. Useful on HPC infrastructures where each user have a home quota folder and a project quota folder on an external source like beegfs.
 
